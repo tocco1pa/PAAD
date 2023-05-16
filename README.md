@@ -1,4 +1,4 @@
-# PAAD
+# Project Album A Day (PAAD)
 
 In 2022, I listened to a different album every day from Jan 1st to Dec 31st - an amazing experience that introduced me to new artists, genres, and ideas. This project is my attempt at visualizing the data collected throughout the experience. 
 
